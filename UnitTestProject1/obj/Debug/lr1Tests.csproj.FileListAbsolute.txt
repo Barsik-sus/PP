@@ -1,0 +1,38 @@
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\RefactorMethodLib.dll
+D:\VStudio\PP\UnitTestProject1\bin\Debug\RefactorMethodLib.pdb
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VStudio\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VStudio\PP\UnitTestProject1\obj\Debug\lr1Tests.csprojAssemblyReference.cache
+D:\VStudio\PP\UnitTestProject1\obj\Debug\lr1Tests.csproj.CoreCompileInputs.cache
+D:\VStudio\PP\UnitTestProject1\obj\Debug\lr1Tests.csproj.CopyComplete
+D:\VStudio\PP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\VStudio\PP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\UnitTests.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\UnitTests.pdb
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\RefactorMethodLib.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\RefactorMethodLib.pdb
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\obj\Debug\lr1Tests.csprojAssemblyReference.cache
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\obj\Debug\lr1Tests.csproj.CoreCompileInputs.cache
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\obj\Debug\lr1Tests.csproj.CopyComplete
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\obj\Debug\UnitTests.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\UnitTestProject1\obj\Debug\UnitTests.pdb

@@ -1,0 +1,12 @@
+D:\VStudio\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.dll
+D:\VStudio\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.pdb
+D:\VStudio\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csprojAssemblyReference.cache
+D:\VStudio\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
+D:\VStudio\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
+D:\VStudio\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.pdb
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csprojAssemblyReference.cache
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
+D:\Отчеты\Проектный практикум\!ЛР 1\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
