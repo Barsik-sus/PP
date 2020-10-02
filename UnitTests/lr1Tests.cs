@@ -178,9 +178,9 @@ namespace UnitTestProject1
         public void Rename_VariableWithMethodName_RenamedOnlyMethod()
         {
             string str = "void add_hp(){int add_hp;}";
-            string method = "add_hp ";
+            string method = "add_hp";
             string new_name = "remove_hp";
-            string expected = " void remove_hp(){int add_hp;}";
+            string expected = "void remove_hp(){int add_hp;}";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.Rename(str, method, new_name);
@@ -194,7 +194,7 @@ namespace UnitTestProject1
             string str = "add_hp(30){cout<<\"add_hp()\"}; add_hp_bar();";
             string method = "add_hp";
             string new_name = "heal";
-            string expected = " heal(30){cout<<\"add_hp()\"}; add_hp_bar();";
+            string expected = "heal(30){cout<<\"add_hp()\"}; add_hp_bar();";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.Rename(str, method, new_name);
