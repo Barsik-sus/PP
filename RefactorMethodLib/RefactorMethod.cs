@@ -40,17 +40,7 @@ namespace RefactorMethodLib
                     rezult = tmp + rezult;
             }
             rezult += str.Substring(stop_index - 2);
-            //Console.WriteLine(code.Pop());
-            return rezult;//code.Pop();
-            // (Test[ (]+\w+| *)(,* *\w+ *\by)
-            string pattern = @"(([^/""]|^)\b" + method + @"[ (]+\w+| *)(,* *\w+ *\b
-"+parametr+@")";
-            // паттерн (([^/""]|^)\bTest[ (]+)(\w+ +\w+,? *)*
-            // парсим начало и параметры, оставляем что нужно
-            // замена $1$3
-            string replacement = "$1";
-            string rez = Regex.Replace(str, pattern, replacement);
-            return rez;
+            return rezult;
         }
 
         public string Rename(string str, string method, string new_name)
