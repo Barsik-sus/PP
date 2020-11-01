@@ -55,3 +55,5 @@ D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\lr1
 D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\lr1Tests.csproj.CopyComplete
 D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\UnitTests.dll
 D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\macho\Source\Repos\PP\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\macho\Source\Repos\PP\UnitTests\obj\Debug\UnitTests.pdb

@@ -11,6 +11,7 @@ namespace Main
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Barsik !");
             RefactorMethod rf = new RefactorMethod();
             Console.WriteLine(rf.DelParam("#include <iostream>\nblablalba\nvoid Test(std::string&& *param, double x)\n{}","Test", "param"));
             Console.ReadKey();
