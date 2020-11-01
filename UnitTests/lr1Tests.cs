@@ -26,7 +26,7 @@ namespace UnitTestProject1
             string str = "void Test(int desiredParam, double x)";
             string method = "Test";
             string param = "desiredParam";
-            string expected = "void Test(double x)";
+            string expected = "void Test( double x)";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.DelParam(str, method, param);
@@ -40,7 +40,7 @@ namespace UnitTestProject1
             string str = "void Test(int param = 12, double x)";
             string method = "Test";
             string param = "param";
-            string expected = "void Test(double x)";
+            string expected = "void Test( double x)";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.DelParam(str, method, param);
@@ -54,7 +54,7 @@ namespace UnitTestProject1
             string str = "void Test(std::string&&* param, double x)";
             string method = "Test";
             string param = "param";
-            string expected = "void Test(double x)";
+            string expected = "void Test( double x)";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.DelParam(str, method, param);
@@ -68,7 +68,7 @@ namespace UnitTestProject1
             string str = "void Test(const char* param, double x)";
             string method = "Test";
             string param = "param";
-            string expected = "void Test(double x)";
+            string expected = "void Test( double x)";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.DelParam(str, method, param);
@@ -96,7 +96,7 @@ namespace UnitTestProject1
             string str = "void Test(int param)";
             string method = "Test";
             string param = "wrong";
-            string expected = "void wrong(int param)";
+            string expected = "void Test(int param)";
 
             RefactorMethod obj = new RefactorMethod();
             string actual = obj.DelParam(str, method, param);

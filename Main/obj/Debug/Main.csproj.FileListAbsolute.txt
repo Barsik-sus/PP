@@ -1,0 +1,10 @@
+D:\Отчеты\Проектный практикум\PP\Main\bin\Debug\Main.exe.config
+D:\Отчеты\Проектный практикум\PP\Main\bin\Debug\Main.exe
+D:\Отчеты\Проектный практикум\PP\Main\bin\Debug\Main.pdb
+D:\Отчеты\Проектный практикум\PP\Main\bin\Debug\RefactorMethodLib.dll
+D:\Отчеты\Проектный практикум\PP\Main\bin\Debug\RefactorMethodLib.pdb
+D:\Отчеты\Проектный практикум\PP\Main\obj\Debug\Main.csprojAssemblyReference.cache
+D:\Отчеты\Проектный практикум\PP\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Отчеты\Проектный практикум\PP\Main\obj\Debug\Main.csproj.CopyComplete
+D:\Отчеты\Проектный практикум\PP\Main\obj\Debug\Main.exe
+D:\Отчеты\Проектный практикум\PP\Main\obj\Debug\Main.pdb
