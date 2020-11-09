@@ -11,6 +11,8 @@ namespace RefactorMethodLib
             int last_index = 0;
             int tmp_index = 0;
             last_index = str.IndexOf(method, 0);
+            if (last_index == -1)
+                return str;
             code.Push(str.Substring(0,last_index));//всё до нашего метода
             tmp_index = str.IndexOf("(", last_index)+1;
             code.Push(str.Substring(last_index,tmp_index-last_index));//название метода
@@ -25,7 +27,8 @@ namespace RefactorMethodLib
                 tmp_index = str.IndexOf(",", last_index); //параметры
                 if(tmp_index == -1)
                 {
-                    code.Push(str.Substring(last_index, stop_index - last_index-2));//если запятая не найдена обрезаем строку до '{'
+                    
+                    code.Push(str.Substring(last_index, stop_index - last_index - 1));//если запятая не найдена обрезаем строку до '{'
                     break;
                 }
                 code.Push(str.Substring(last_index, tmp_index - last_index+1));
@@ -39,7 +42,7 @@ namespace RefactorMethodLib
                 if (!tmp.Contains(parametr))
                     rezult = tmp + rezult;
             }
-            rezult += str.Substring(stop_index - 2);
+            rezult += str.Substring(stop_index - 1);
             return rezult;
         }
 
