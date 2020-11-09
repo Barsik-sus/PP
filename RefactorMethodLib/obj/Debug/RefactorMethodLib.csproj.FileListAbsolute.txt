@@ -16,3 +16,9 @@ D:\Отчеты\Проектный практикум\PP\RefactorMethodLib\obj\D
 D:\Отчеты\Проектный практикум\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
 D:\Отчеты\Проектный практикум\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
 D:\Отчеты\Проектный практикум\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.dll
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\bin\Debug\RefactorMethodLib.pdb
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csprojAssemblyReference.cache
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
+C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
