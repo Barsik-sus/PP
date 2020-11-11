@@ -1,0 +1,13 @@
+D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\Interface.exe.config
+D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\Interface.exe
+D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\Interface.pdb
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.Form1.resources
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.exe
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.pdb
+D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\RefactorMethodLib.dll
+D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\RefactorMethodLib.pdb
+D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.csproj.CopyComplete
