@@ -31,5 +31,20 @@ namespace Interface
                     break;
             }    
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch(comboBox1.SelectedIndex)
+            {
+                case 0:
+                    label2.Text = "Имя параметра:";
+                    button1.Text = "Удалить";
+                    break;
+                case 1:
+                    label2.Text = "Новое имя метода:";
+                    button1.Text = "Переименовать";
+                    break;
+            }
+        }
     }
 }
