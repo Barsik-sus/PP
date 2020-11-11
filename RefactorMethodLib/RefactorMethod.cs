@@ -1,55 +1,65 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
+using System.Linq;
 namespace RefactorMethodLib
 {
     public class RefactorMethod
     {
         public string DelParam(string str, string method, string parametr)
         {
-            Stack<string> code = new Stack<string>();
-            int last_index = 0;
-            int tmp_index = 0;
-            last_index = str.IndexOf(method, 0);
-            code.Push(str.Substring(0,last_index));//всё до нашего метода
-            tmp_index = str.IndexOf("(", last_index)+1;
-            code.Push(str.Substring(last_index,tmp_index-last_index));//название метода
-            last_index = tmp_index;
-            int stop_index = str.IndexOf("{", last_index);
-            if(stop_index == -1)
+            if (str.Contains(method))
             {
-                stop_index = str.Length;
-            }
-            while(last_index<stop_index)
-            {
-                tmp_index = str.IndexOf(",", last_index); //параметры
-                if(tmp_index == -1)
+                string res = "", tmp = "";
+                int start_index = 0, end_index = str.IndexOf(method, 0);
+                string before = str.Substring(start_index, end_index);
+                start_index = end_index + method.Length + 1;
+                res += before + str.Substring(end_index, str.IndexOf('(', end_index) + 1 - end_index);
+                end_index = str.IndexOf(")", end_index);
+                tmp = str.Substring(start_index, end_index - start_index);
+
+                if (tmp.Contains(","))
                 {
-                    code.Push(str.Substring(last_index, stop_index - last_index-2));//если запятая не найдена обрезаем строку до '{'
-                    break;
+                    string res_params = "", last_params = tmp;
+                    int tmp_index_2 = tmp.IndexOf(',', 0);
+                    for (int i = 0; i <= tmp.Count(c => c == ','); i++)
+                    {
+
+                        string current_param = last_params.Substring(0, tmp_index_2);
+                        if (last_params.Length != tmp_index_2)
+                        {
+                            last_params = last_params.Substring(tmp_index_2);
+                        }
+                        if (!current_param.Contains(parametr))
+                        {
+                            if (res_params == "" && current_param[0] == ',') { res_params += current_param.Substring(1); }
+                            else { res_params += current_param; }
+                        }
+                        tmp_index_2 = last_params.IndexOf(',', 1);
+                        if (tmp_index_2 == -1) { tmp_index_2 = last_params.Length; }
+                    }
+                    res += res_params;
                 }
-                code.Push(str.Substring(last_index, tmp_index - last_index+1));
-                last_index = tmp_index+1;
+                else
+                {
+                    if (!(tmp.Contains(parametr)))
+                    {
+                        res += tmp;
+                    }
+                }
+                res += str.Substring(end_index);
+                return res;
             }
-            string rezult = "";
-            string tmp = "";
-            while(code.Count!=0)
-            {
-                tmp = code.Pop();
-                if (!tmp.Contains(parametr))
-                    rezult = tmp + rezult;
-            }
-            rezult += str.Substring(stop_index - 2);
-            return rezult;
+            return str;
         }
 
         public string Rename(string str, string method, string new_name)
-        {   
-            string pattern = @"([^/""]|^)\b("+method+@")[ (]+";
+        {
+            string pattern = @"([^/""]|^)\b(" + method + @")[ (]+";
             //string replacement = "Tested(";
-            string rez = Regex.Replace(str, pattern, new_name+"(");
+            string rez = Regex.Replace(str, pattern, new_name + "(");
 
-            return rez; 
+            return rez;
         }
     }
 }

@@ -22,3 +22,21 @@ C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csp
 C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
 C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
 C:\Users\macho\Source\Repos\PP\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\RefactorMethodLib.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\RefactorMethodLib.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CoreCompileInputs.cache
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\obj\Debug\RefactorMethodLib.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\obj\Debug\RefactorMethodLib.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\obj\Debug\RefactorMethodLib.csprojAssemblyReference.cache
+D:\Универ\3-й курс\Проектний практикум\Лр2\RefactorMethodLib\obj\Debug\RefactorMethodLib.csproj.CopyComplete

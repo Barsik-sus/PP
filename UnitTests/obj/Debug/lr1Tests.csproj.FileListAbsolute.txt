@@ -57,3 +57,23 @@ D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\Uni
 D:\Отчеты\Проектный практикум\PP\UnitTests\obj\Debug\UnitTests.pdb
 C:\Users\macho\Source\Repos\PP\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\macho\Source\Repos\PP\UnitTests\obj\Debug\UnitTests.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\obj\Debug\UnitTests.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\obj\Debug\UnitTests.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\UnitTests.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\UnitTests.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\RefactorMethodLib.dll
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\RefactorMethodLib.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\obj\Debug\lr1Tests.csprojAssemblyReference.cache
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\obj\Debug\lr1Tests.csproj.CoreCompileInputs.cache
+D:\Универ\3-й курс\Проектний практикум\Лр2\UnitTests\obj\Debug\lr1Tests.csproj.CopyComplete
