@@ -55,8 +55,8 @@ namespace RefactorMethodLib
 
         public string Rename(string str, string method, string new_name)
         {
-            string pattern = @"([^/""]|^)\b("+method+@")[ (]+";
-            string rez = Regex.Replace(str, pattern, "$1"+new_name+"(");
+            string pattern = @"([^/""]|^)\b("+method+@")([ (]+)";
+            string rez = Regex.Replace(str, pattern, "$1"+new_name+"$3");
 
             return rez; 
         }
