@@ -11,3 +11,18 @@ D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Int
 D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\RefactorMethodLib.dll
 D:\Отчеты\Проектный практикум\PP\Interface\bin\Debug\RefactorMethodLib.pdb
 D:\Отчеты\Проектный практикум\PP\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\Interface.exe.config
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\Interface.exe
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\Interface.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\ClassLibrary1.dll
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\RefactorMethodLib.dll
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\ClassLibrary1.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\bin\Debug\RefactorMethodLib.pdb
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.Form1.resources
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.Properties.Resources.resources
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.csproj.CopyComplete
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.exe
+D:\Универ\3-й курс\Проектний практикум\Лр3\Новая папка\Interface\obj\Debug\Interface.pdb

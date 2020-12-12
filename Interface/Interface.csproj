@@ -80,6 +80,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{d8f719ec-163f-4554-bb7f-12084a6096d3}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RefactorMethodLib\RefactorMethodLib.csproj">
       <Project>{e654f4b2-7d4c-487e-9dd2-6edf0bfe48c9}</Project>
       <Name>RefactorMethodLib</Name>
